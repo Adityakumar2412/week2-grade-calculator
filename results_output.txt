@@ -1,0 +1,52 @@
+STUDENT GRADE REPORT
+==================================================
+Name   : Aditya Kumar
+Average: 100.0
+Grade  : A
+Comment: Excellent! Keep up the great work!
+--------------------------------------------------
+Name   : lekh
+Average: 50.0
+Grade  : F
+Comment: Failed. Please seek help from teacher.
+--------------------------------------------------
+Name   : himanshu
+Average: 70.0
+Grade  : C
+Comment: Good. Room for improvement.
+--------------------------------------------------
+Name   : priyanshi
+Average: 85.7
+Grade  : B
+Comment: Very Good! You're doing well.
+--------------------------------------------------
+Name   : shreya
+Average: 67.0
+Grade  : D
+Comment: Needs Improvement. Please study more.
+--------------------------------------------------
+Name   : roshan
+Average: 74.7
+Grade  : C
+Comment: Good. Room for improvement.
+--------------------------------------------------
+Name   : shailesh
+Average: 84.7
+Grade  : B
+Comment: Very Good! You're doing well.
+--------------------------------------------------
+Name   : ayush
+Average: 84.7
+Grade  : B
+Comment: Very Good! You're doing well.
+--------------------------------------------------
+Name   : vishal
+Average: 77.3
+Grade  : C
+Comment: Good. Room for improvement.
+--------------------------------------------------
+Name   : ankit
+Average: 87.7
+Grade  : B
+Comment: Very Good! You're doing well.
+--------------------------------------------------
