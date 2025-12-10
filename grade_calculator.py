@@ -1,5 +1,4 @@
-# grade_calculator.py
-# Author: Aditya Kumar
+# Student Grade Calculator
 # Week 2 Project - Student Grade Calculator (The Developers Arena)
 
 def calculate_grade(average):
